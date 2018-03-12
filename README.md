@@ -6,3 +6,9 @@ It follows `https://github.com/bfirsh/whalebrew` format, so it can run and manag
 It currently supports the following:
 
 - **Yapf** - 0.20.1
+
+## Usage
+
+```!bash
+whalebrew install quay.io/intellihr/yapf
+```
